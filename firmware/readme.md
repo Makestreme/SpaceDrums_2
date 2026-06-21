@@ -1,3 +1,7 @@
+Note: Final codes are `spacedrums_2.ino` and `spacedrums_2_hub.ino`
+- `spacedrums_2_wifi.ino` uses the `python audio_server.py` while `spacedrums_2.ino` uses an esp32 hub with python `audio_hub.py`. The latter is recommended.
+- The orientation and hit ino files are the final tested orientation and hit detection codes. These are just for references. 
+
 # Space Drums 2.0 — Pin Mapping
 
 This document details the hardware pin connections and definitions for the **Space Drums 2.0** hardware. 
