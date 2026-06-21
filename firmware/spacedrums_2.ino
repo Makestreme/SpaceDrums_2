@@ -11,8 +11,8 @@
 // ==========================================
 // CONFIGURATION
 // ==========================================
-const char* WIFI_SSID = "Mondal";
-const char* WIFI_PASS = "shovaN1999";
+const char* WIFI_SSID = "---";
+const char* WIFI_PASS = "---";
 const char* UDP_TARGET_IP = "255.255.255.255"; 
 const int   UDP_PORT      = 5005;
 
